@@ -1,0 +1,6 @@
+@Codemotive.Homemates.Web_HostAddress = http://localhost:5131
+
+GET {{Codemotive.Homemates.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
